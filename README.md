@@ -33,12 +33,12 @@ The main mechanic of this game is the use of the trident, which functions both a
   * Fonts (for titles and buttons): the fonts used are a non-copyrighted variation of minecraft fonts. They are free to use for non-commercial use so long credit is given to "PurePixel", "MadPixel". The license says: This Font "Minecraftory" is under the creative commons license and can be used non-commercially, as long as it is passed along unchanged and in whole, with credit to one of the following names ; "PurePixel", "MadPixel"
   * Sound effects: free-to-use for both commercial and non-commercial use game design [package by Thomas Brush](https://www.fulltimegamedev.com/free-game-kit)
 
-### Path Finding Algorithm: 
-Adapted from [A* algorithm](https://arongranberg.com/astar/) which is free to use.
+* ### Path Finding Algorithm: 
+ * Adapted from [A* algorithm](https://arongranberg.com/astar/) which is free to use.
 
-### Tileset:
-* [Grotto Escape Pack](https://assetstore.unity.com/packages/2d/textures-materials/tiles/grotto-escape-...).
-* [Sunny Land Pack](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349).
+* ### Tileset:
+ * [Grotto Escape Pack](https://assetstore.unity.com/packages/2d/textures-materials/tiles/grotto-escape-...).
+ * [Sunny Land Pack](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349).
 
 ### Music:
 * The Magic Pearl by JuliusH via Pixabay
