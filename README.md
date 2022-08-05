@@ -17,17 +17,16 @@ The main mechanic of this game is the use of the trident, which functions both a
 
 
 ## Credits:
-	Ayham Ratrout
-	Cate Kingsley
-	Daniel Lee
-	Jake Wiseberg
+1. Ayham Ratrout
+2. Cate Kingsley
+3. Daniel Lee
+4. Jake Wiseberg
 
 ## Awards (at Case Western Reserve University, Computer Game Desgin Course):
 	Best Overall Game
 	Best Quality Game
 
 ## Assets Used:
-
 ### Start Scene:
 	Background: unity asset store (https://assetstore.unity.com/packages/2d/textures-materials/water/underwater-fantasy-87457).
 	Buttons: unity asset store (https://assetstore.unity.com/packages/2d/gui/buttons-set-211824).
