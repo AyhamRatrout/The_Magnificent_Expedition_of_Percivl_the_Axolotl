@@ -27,7 +27,7 @@ The main mechanic of this game is the use of the trident, which functions both a
 * Best Quality Game
 
 ## Assets Used:
-### - Start Scene:
+* ### Start Scene:
 * Background: unity [asset store](https://assetstore.unity.com/packages/2d/textures-materials/water/underwater-fantasy-87457).
 * Buttons: unity [asset store](https://assetstore.unity.com/packages/2d/gui/buttons-set-211824).
 * Fonts (for titles and buttons): the fonts used are a non-copyrighted variation of minecraft fonts. They are free to use for non-commercial use so long credit is given to "PurePixel", "MadPixel". The license says: This Font "Minecraftory" is under the creative commons license and can be used non-commercially, as long as it is passed along unchanged and in whole, with credit to one of the following names ; "PurePixel", "MadPixel"
