@@ -1,0 +1,35 @@
+Start Scene:
+
+	- Background: unity asset store (https://assetstore.unity.com/packages/2d/textures-materials/water/underwater-fantasy-87457).
+	- Buttons: unity asset store (https://assetstore.unity.com/packages/2d/gui/buttons-set-211824).
+	- Fonts (for titles and buttons): the fonts used are a non-copyrighted variation of minecraft fonts. They are free to use for non-commercial use so long credit is given to "PurePixel", "MadPixel". The license says: This Font "MineCrafter" is under the creative commons license and can be used non-commercialy, as long as it is passed along unchanged and in whole, with credit to one of the following names ; "PurePixel", "MadPixel"
+	- Sound effects: free-to-use for both commercial and non-commercial use game design package by Thomas Brush (https://www.fulltimegamedev.com/free-game-kit)
+
+Path Finding Algorithm: adapted from A* algorithm which is free to use (https://arongranberg.com/astar/).
+
+
+Tileset: 
+	- Grotto Escape Pack https://assetstore.unity.com/packages/2d/textures-materials/tiles/grotto-escape-pack-54254#description
+	- Sunny Land Pack https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+
+End Scene:
+
+	- Background: Pinterest (https://www.pinterest.com/pin/633387438883423/).
+	- Buttons: unity asset store (https://assetstore.unity.com/packages/2d/gui/buttons-set-211824).
+	- Fonts (for titles and buttons): the fonts used are a non-copyrighted variation of minecraft fonts. They are free to use for non-commercial use so long credit is given to "PurePixel", "MadPixel". The license says: This Font "MineCrafter" is under the creative commons license and can be used non-commercialy, as long as it is passed along unchanged and in whole, with credit to one of the following names ; "PurePixel", "MadPixel"
+	- Sound effects: free-to-use for both commercial and non-commercial use game design package by Thomas Brush (https://www.fulltimegamedev.com/free-game-kit)
+
+Music: 
+	- The Magic Pearl by JuliusH via Pixabay
+	- Twinkle Like a Star by MondayHopes via Pixabay
+	- Sunset Soundtrack - Microgames Add-Ons by Unity Technologies
+	- Music Box Music by Ernst Gottlieb Baron (1696 - 1760) 6 by Nesrality via Pixabay
+
+
+
+Sound Effects:
+	- Simple Clean Logo by Muzaproduction via Pixabay
+	- Sandy Beach - Calm Waves - Water - Nature Sounds by JuliusH via Pixabay
+
+Sprites:
+	- Custom made
