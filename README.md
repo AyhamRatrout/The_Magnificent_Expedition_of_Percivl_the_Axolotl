@@ -1,10 +1,10 @@
-#The Magnificent Expedition of Percivl the Axolotl
+# The Magnificent Expedition of Percivl the Axolotl
 
-##Backstory:
+## Backstory:
 
 The Axolotls of Urodela Village were on their daily worship to the Shrine of the Golden Blobfish, when they noticed that their sacred Blobfish has gone missing! The Golden Blobfish keeps the balance of life in the ocean, and without it in its proper place, the waters turn gray and the plants wither away. There are few who would commit such a devious act, and it is up to you to confront the thief. You, Percivl, must take up the trident and use it to eliminate obstacles or maneuver around them in your journey to bring the Blobfish back.
 
-##Game Controls:
+## Game Controls:
 
 	AD to move left and right
 	Space to jump
@@ -14,24 +14,24 @@ The Axolotls of Urodela Village were on their daily worship to the Shrine of the
 	ESC to pause
 	ALT + F4 to exit
 
-##Game Mechanics:
+## Game Mechanics:
 
 The main mechanic of this game is the use of the trident, which functions both as a weapon and as a tool for platforming. You can aim where the trident will land with your mouse, and after throwing it, you are able to jump on it to reach higher places.
 
 
-##Credits:
+## Credits:
 
 	Ayham Ratrout
 	Cate Kingsley
 	Daniel Lee
 	Jake Wiseberg
 
-##Awards (at Case Western Reserve University, Computer Game Desgin Course):
+## Awards (at Case Western Reserve University, Computer Game Desgin Course):
 	
 	Best Overall Game
 	Best Quality Game
 
-##Assets Used:
+## Assets Used:
 
 Start Scene:
 
@@ -58,7 +58,7 @@ Sound Effects:
 	Simple Clean Logo by Muzaproduction via Pixabay
 	Sandy Beach - Calm Waves - Water - Nature Sounds by JuliusH via Pixabay
 
-##More Information:
+## More Information:
 
 	Status:		Prototype
 	Platforms: 	Windows
@@ -68,6 +68,6 @@ Sound Effects:
 	Languages:	English
 	Inputs:		Keyboard, Mouse
 
-##Installation Instructions:
+## Installation Instructions:
 
 Follow the [link](https://ecse-csds290.itch.io/percivl-the-axolotl). From the link, download the zip file and unzip it into a folder on your computer. Open the new folder and look for the PercivlTheAxolotl.exe executable file. Double click on the executable to start the game. This zip only works for Windows computers.
