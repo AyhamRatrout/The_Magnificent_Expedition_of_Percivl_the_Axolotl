@@ -1,4 +1,0 @@
-WASD to move
-Space to Jump
-Left click to throw trident
-Right click to retrieve it
