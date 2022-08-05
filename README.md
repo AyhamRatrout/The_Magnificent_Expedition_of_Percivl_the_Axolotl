@@ -34,11 +34,11 @@ The main mechanic of this game is the use of the trident, which functions both a
   * Sound effects: free-to-use for both commercial and non-commercial use game design [package by Thomas Brush](https://www.fulltimegamedev.com/free-game-kit)
 
 * ### Path Finding Algorithm: 
- * Adapted from [A* algorithm](https://arongranberg.com/astar/) which is free to use.
+  * Adapted from [A* algorithm](https://arongranberg.com/astar/) which is free to use.
 
 * ### Tileset:
- * [Grotto Escape Pack](https://assetstore.unity.com/packages/2d/textures-materials/tiles/grotto-escape-...).
- * [Sunny Land Pack](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349).
+  * [Grotto Escape Pack](https://assetstore.unity.com/packages/2d/textures-materials/tiles/grotto-escape-...).
+  * [Sunny Land Pack](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349).
 
 ### Music:
 * The Magic Pearl by JuliusH via Pixabay
