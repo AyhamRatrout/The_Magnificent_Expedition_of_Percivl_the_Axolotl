@@ -40,15 +40,15 @@ The main mechanic of this game is the use of the trident, which functions both a
   * [Grotto Escape Pack](https://assetstore.unity.com/packages/2d/textures-materials/tiles/grotto-escape-...).
   * [Sunny Land Pack](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349).
 
-### Music:
-* The Magic Pearl by JuliusH via Pixabay
-* Twinkle Like a Star by MondayHopes via Pixabay
-* Sunset Soundtrack - Microgames Add-On
-* Music Box Music by Ernst Gottlieb Baron (1696 - 1760) 6 Nesrality via Pixabay
+* ### Music:
+  * The Magic Pearl by JuliusH via Pixabay
+  * Twinkle Like a Star by MondayHopes via Pixabay
+  * Sunset Soundtrack - Microgames Add-On
+  * Music Box Music by Ernst Gottlieb Baron (1696 - 1760) 6 Nesrality via Pixabay
 
-### Sound Effects:
-* Simple Clean Logo by Muzaproduction via Pixabay
-* Sandy Beach - Calm Waves - Water - Nature Sounds by JuliusH via Pixabay
+* ### Sound Effects:
+  * Simple Clean Logo by Muzaproduction via Pixabay
+  * Sandy Beach - Calm Waves - Water - Nature Sounds by JuliusH via Pixabay
 
 ## More Information:
 * Status:	Prototype
@@ -60,4 +60,4 @@ The main mechanic of this game is the use of the trident, which functions both a
 * Inputs:	Keyboard, Mouse
 
 ## Installation Instructions:
-Follow the [link](https://ecse-csds290.itch.io/percivl-the-axolotl). From the link, download the zip file and unzip it into a folder on your computer. Open the new folder and look for the PercivlTheAxolotl.exe executable file. Double click on the executable to start the game. This zip only works for Windows computers.
+Follow the [link](https://ecse-csds290.itch.io/percivl-the-axolotl). From the link, download the zip file and unzip it into a folder on your computer. Open the new folder and look for the PercivlTheAxolotl.exe executable file. Double click on the executable to start the game. This zip only works for Windows OS.
