@@ -4,23 +4,23 @@
 The Axolotls of Urodela Village were on their daily worship to the Shrine of the Golden Blobfish, when they noticed that their sacred Blobfish has gone missing! The Golden Blobfish keeps the balance of life in the ocean, and without it in its proper place, the waters turn gray and the plants wither away. There are few who would commit such a devious act, and it is up to you to confront the thief. You, Percivl, must take up the trident and use it to eliminate obstacles or maneuver around them in your journey to bring the Blobfish back.
 
 ## Game Controls:
-	1. AD to move left and right
-	2. Space to jump
-	3. Mouse to aim
-	4. Left Click to throw trident
-	5. Right Click to retrieve trident
-	6. ESC to pause
-	7. ALT + F4 to exit
+1. AD to move left and right
+2. Space to jump
+3. Mouse to aim
+4. Left Click to throw trident
+5. Right Click to retrieve trident
+6. ESC to pause
+7. ALT + F4 to exit
 
 ## Game Mechanics:
 The main mechanic of this game is the use of the trident, which functions both as a weapon and as a tool for platforming. You can aim where the trident will land with your mouse, and after throwing it, you are able to jump on it to reach higher places.
 
 
 ## Credits:
-1. Ayham Ratrout
-2. Cate Kingsley
-3. Daniel Lee
-4. Jake Wiseberg
+* Ayham Ratrout
+* Cate Kingsley
+* Daniel Lee
+* Jake Wiseberg
 
 ## Awards (at Case Western Reserve University, Computer Game Desgin Course):
 	Best Overall Game
